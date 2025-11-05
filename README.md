@@ -50,27 +50,27 @@ O app permite escolher a quantidade de números desejada (entre 6 e 15) e salva 
 
 A interface foi construída com ConstraintLayout, contendo:
 
-Logo da Mega-Sena
+* Logo da Mega-Sena
 
-Campo para digitar a quantidade de números
+* Campo para digitar a quantidade de números
 
-Botão para gerar os números
+* Botão para gerar os números
 
-Área de resultado exibindo os números sorteados
+* Área de resultado exibindo os números sorteados
 
 💡 Aprendizados
 
 Durante o desenvolvimento deste projeto, foram aplicados conceitos como:
 
-Manipulação de componentes de interface no Android
+* Manipulação de componentes de interface no Android
 
-Validação de dados de entrada do usuário
+* Validação de dados de entrada do usuário
 
-Uso de MutableSet para evitar números repetidos
+* Uso de MutableSet para evitar números repetidos
 
-Armazenamento de informações locais com SharedPreferences
+* Armazenamento de informações locais com SharedPreferences
 
-Estrutura e fluxo básico de um app Android em Kotlin
+* Estrutura e fluxo básico de um app Android em Kotlin
 
 🧑‍💻 Autor
 
