@@ -43,4 +43,38 @@ O app permite escolher a quantidade de números desejada (entre 6 e 15) e salva 
 1. Clone este repositório:
    ```bash
    git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+2. Abra o projeto no Android Studio
+3. Execute em um emulador ou dispositivo físico
+
+🖼️ Layout
+
+A interface foi construída com ConstraintLayout, contendo:
+
+Logo da Mega-Sena
+
+Campo para digitar a quantidade de números
+
+Botão para gerar os números
+
+Área de resultado exibindo os números sorteados
+
+💡 Aprendizados
+
+Durante o desenvolvimento deste projeto, foram aplicados conceitos como:
+
+Manipulação de componentes de interface no Android
+
+Validação de dados de entrada do usuário
+
+Uso de MutableSet para evitar números repetidos
+
+Armazenamento de informações locais com SharedPreferences
+
+Estrutura e fluxo básico de um app Android em Kotlin
+
+🧑‍💻 Autor
+
+Samuel Ferreira da Silva
+📧 samuel.dev798@gmail.com
+   
 
